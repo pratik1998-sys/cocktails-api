@@ -1,15 +1,3 @@
-#### React Router Fix
+***This is a cocktails api project build using react router and external api****
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+***Jump to the link to check the website - https://mycocktailapi.netlify.app/
